@@ -1,0 +1,132 @@
+{
+   "1": {
+      "city": "NAPA",
+      "facilityName": "1313 MAIN STREET",
+      "inspectionDate": "11/02/2016",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "1313  MAIN  ST",
+      "violationItems": {
+         "1": "35. Equipment/Utensils - approved; installed; clean; good repair; capacity",
+         "2": "44. Premises; personal/cleaning items; vermin-proofing",
+         "3": "48. Plan Review"
+      },
+      "zip": "94559"
+   },
+   "2": {
+      "city": "SAINT HELENA",
+      "facilityName": "641 MAIN STREET",
+      "inspectionDate": "11/22/2016",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "641  MAIN  ST",
+      "violationItems": {
+         "1": "35. Equipment/Utensils - approved; installed; clean; good repair; capacity"
+      },
+      "zip": "94574"
+   },
+   "3": {
+      "city": "St Helena",
+      "facilityName": "A & A KITCHENS LLC",
+      "inspectionDate": "04/03/2012",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "391  La Fata  ST",
+      "violationItems": {
+         "1": "35. Equipment/Utensils - approved; installed; clean; good repair; capacity"
+      },
+      "zip": "94574"
+   },
+   "4": {
+      "city": "Napa",
+      "facilityName": "A & B MARKET",
+      "inspectionDate": "03/10/2016",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "1855  OLD SONOMA  RD",
+      "violationItems": {},
+      "zip": "94558"
+   },
+   "5": {
+      "city": "SAINT HELENA",
+      "facilityName": "A DOZEN VINTNERS",
+      "inspectionDate": "12/02/2011",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "3000  St. Helena Hwy N   A",
+      "violationItems": {
+         "1": "35. Equipment/Utensils - approved; installed; clean; good repair; capacity",
+         "2": "41. Plumbing; proper backflow devices"
+      },
+      "zip": "94574"
+   },
+   "6": {
+      "city": "SAINT HELENA",
+      "facilityName": "A DOZEN VINTNERS",
+      "inspectionDate": "10/03/2012",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "3000  St. Helena Hwy N   A",
+      "violationItems": {
+         "1": "41. Plumbing; proper backflow devices"
+      },
+      "zip": "94574"
+   },
+   "7": {
+      "city": "SAINT HELENA",
+      "facilityName": "A&W/KFC",
+      "inspectionDate": "02/04/2013",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "501  MAIN  ST",
+      "violationItems": {
+         "1": "41. Plumbing; proper backflow devices",
+         "2": "42. Garbage and refuse properly disposed; facilities maintained",
+         "3": "44. Premises; personal/cleaning items; vermin-proofing",
+         "4": "45. Floors, walls and ceilings: built, maintained, and clean"
+      },
+      "zip": "94574"
+   },
+   "8": {
+      "city": "Napa",
+      "facilityName": "A-1 FOOD & LIQUOR INC",
+      "inspectionDate": "02/19/2016",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "75  Coombs  ST",
+      "violationItems": {},
+      "zip": "94559"
+   },
+   "9": {
+      "city": "S Francisco",
+      "facilityName": "A-1 SANDWICH CO (DIET TO GO)",
+      "inspectionDate": "01/25/2013",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "429  Cabot  RD",
+      "violationItems": {
+         "1": "39. Thermometers provided and accurate"
+      },
+      "zip": "94080"
+   },
+   "10": {
+      "city": "Napa",
+      "facilityName": "ABC FOODS",
+      "inspectionDate": "03/10/2016",
+      "inspectionGrade": "A",
+      "inspectionType": "Fixed Food",
+      "state": "CA",
+      "streetAddress": "1825  Old Sonoma  RD",
+      "violationItems": {},
+      "zip": "94558"
+   }
+}
